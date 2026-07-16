@@ -1,5 +1,22 @@
+
+<p align="center">
+  <img src="images/almabetter-logo.png" alt="AlmaBetter Logo" width="220">
+</p>
+
+# Introduction to Computer Programming Capstone Project
+
+## AlmaBetter | Data Analytics & Business Intelligence
+
+### Project Overview
+...
+
+
+
+
 # 💫 About Me:
 # AlmaBetter CodeStorm Challenge Project<br><br>This repository contains my solutions for the CodeStorm Challenge organized by AlmaBetter Edutech Pvt Ltd.<br><br>## 📌 Project Overview<br>The CodeStorm Challenge is designed to test programming skills, logical thinking, and problem-solving abilities. In this project, I solved coding problems and explained the approach used to reach the solutions.<br><br>## 🎯 Objectives<br>- Practice coding and problem-solving<br>- Improve logical thinking<br>- Learn to write clean and efficient Python code<br>- Understand basic algorithms<br><br>## 🛠️ Technologies Used<br>- Python<br>- Jupyter Notebook<br>- Basic Algorithms<br><br>## 📂 Project Files<br>- `Capstone_Project_1_CODESTROM_CHALLENGE.ipynb` – Contains solutions to the coding problems.<br><br>## 🚀 Learning Outcomes<br>Through this challenge, I improved my coding skills, problem-solving ability, and understanding of algorithms.<br><br>## 👩‍💻 Author<br>Shruti Kumari
+
+
 
 
 ## 🌐 Socials:
