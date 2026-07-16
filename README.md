@@ -1,14 +1,7 @@
 
 <p align="center">
-  <img src="images/almabetter-logo.png" alt="AlmaBetter Logo" width="220">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/almabetter-logo.png" width="220">
 </p>
-
-# Introduction to Computer Programming Capstone Project
-
-## AlmaBetter | Data Analytics & Business Intelligence
-
-### Project Overview
-...
 
 
 
