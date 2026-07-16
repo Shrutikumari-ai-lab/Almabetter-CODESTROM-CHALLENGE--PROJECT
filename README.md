@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/almabetter-logo.png" width="220">
+  <img src="almabetter-logo.png" alt="AlmaBetter Logo" width="220">
 </p>
 
 
